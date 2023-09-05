@@ -1,0 +1,3 @@
+www.manythings.org/anki/
+
+storage.googleapis.com/download.tensorflow.org/data/spa-eng.zip
