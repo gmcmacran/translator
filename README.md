@@ -16,4 +16,4 @@ Performance Tricks:
 - Using TF dataset to load flat file batch by batch.
 - Prefetching flat file.
 - Mixed precision.
-- Distributed model training (if there are multiple GPUs available).
+- Distributed model training if there are multiple GPUs available.
