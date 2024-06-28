@@ -1,8 +1,8 @@
 
 # Repo Overview
 
-This repo follows Deep Learning with Python by Fancois Chollet to build
-tensorflow models that translate English to Spanish.
+This repo follows builds two tensorflow models that translate English to
+Spanish.
 
 Models:
 
